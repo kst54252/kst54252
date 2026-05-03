@@ -1,1 +1,1 @@
-<img src="solvedac-kst54252-v2.svg" width="300" height="100" alt="solved.ac stat">
+<img src="solvedac-kst54252-v2.svg" width="600" height="200" alt="solved.ac stat">
