@@ -1,1 +1,1 @@
-[![solved.ac stats](https://solvedac-readme-stats.vercel.app/api?handle=kst54252)](https://solved.ac/profile/kst54252)
+<img src="kst54252/solved.ac-kst54252-v2.svg" width="300" height="100" alt="solved.ac stat">
